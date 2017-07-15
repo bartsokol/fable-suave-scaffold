@@ -1,5 +1,3 @@
-FSharp.NET.Sdk
-
 group Test
 FSharp.Core
 Expecto
