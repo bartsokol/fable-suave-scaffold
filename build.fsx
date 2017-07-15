@@ -27,7 +27,7 @@ let serverPath = "./src/Server/" |> FullName
 
 let serverTestsPath = "./test/ServerTests" |> FullName
 
-let dotnetcliVersion = "1.0.4"
+let dotnetcliVersion = "2.0.0-preview2-006497"
 
 let mutable dotnetExePath = "dotnet"
 
